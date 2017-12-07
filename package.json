@@ -1,0 +1,8 @@
+{
+  "name": "vue-toolbar",
+  "version": "0.1.0",
+  "description": "Development cumbersomeness reducer for Vue.js",
+  "main": "index.js",
+  "author": "neemzy <tom.panier@free.fr>",
+  "license": "UNLICENSED"
+}
